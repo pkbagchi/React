@@ -1,13 +1,13 @@
 # React
 
 
-###Install:
+### Install :
     
     npx create-react-app myapp
     cd myapp
     npm install react-router-dom
     npm install axios
     
- ### Run
+ ### Run :
     
     npm start
